@@ -1,1 +1,1 @@
-## This is remote main branch editing same line.
+## This is update in local to create a merge conflict.
